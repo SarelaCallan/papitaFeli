@@ -1,4 +1,4 @@
-package com.papita.demo.controller;
+package com.papita.app.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
